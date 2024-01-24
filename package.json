@@ -1,0 +1,11 @@
+{
+  "name": "js-lexer",
+  "version": "1.0.0",
+  "description": "a lexer in js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "elias ojeda",
+  "license": "MIT"
+}
